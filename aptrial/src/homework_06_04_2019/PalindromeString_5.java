@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class PalindromeString_5 {
 
+         /*Working as expected*/
+
         public static void main(String[] args)
         {
             //A Palindrome number is a number that remains the same

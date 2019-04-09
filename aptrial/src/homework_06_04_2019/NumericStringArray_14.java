@@ -3,6 +3,9 @@ package homework_06_04_2019;
 import java.util.Arrays;
 
 public class NumericStringArray_14 {
+
+     /*Working as expected*/
+
     public static void main(String[] args) {
         int a[] = {10, 8, 6, 4, 2};
         String b[] = {"Kavita","Shah", "Hitesh","Kesha", "Shivam"};

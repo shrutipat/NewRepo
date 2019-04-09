@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class PalindromeNumber_5 {
 
+     /*Working as expected*/
+
     public static boolean isPalindrome(int parameter) {
 
         int x = parameter;

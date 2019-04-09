@@ -8,6 +8,11 @@ The numbers from 0-9 have 1 digit so we don't want to process them; also we don'
 For example calling the method sumDigits(125) should return 8 since 1 + 2 + 5 = 8.
 */
 public class DigitSumChallenge_4 {
+    /*
+    * If you enter 9 then gives result - "Number is too big" "Invalid input" as this is not big number
+    * otherwise programme work expected.
+    * */
+
     public static void main(String[] args) {
         int p;
         Scanner sc = new Scanner(System.in);

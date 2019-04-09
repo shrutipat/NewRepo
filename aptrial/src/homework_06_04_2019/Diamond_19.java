@@ -1,6 +1,9 @@
 package homework_06_04_2019;
 
 public class Diamond_19 {
+
+    /*Working as expected*/
+
     public static void main(String[] args) {
 
         for (int i = 1; i < 10; i += 2)

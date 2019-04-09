@@ -3,6 +3,7 @@ package homework_06_04_2019;
 import java.util.Scanner;
 
 public class SumValuesOfArray_15 {
+    /*Working as expected*/
     public static void main(String[] args) {
         int length, total=0;
         Scanner sc = new Scanner(System.in);

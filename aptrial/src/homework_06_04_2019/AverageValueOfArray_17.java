@@ -3,6 +3,9 @@ package homework_06_04_2019;
 import java.util.Scanner;
 
 public class AverageValueOfArray_17 {
+
+    /*Working as expected*/
+
     public static void main(String[] args)
     {
         int length, total=0, avg;
