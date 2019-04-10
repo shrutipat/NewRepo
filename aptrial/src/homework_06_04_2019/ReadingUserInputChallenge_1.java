@@ -11,6 +11,8 @@ Read 10 numbers from the console entered by the user and print the sum of those 
 
     public static void main(String[] args) {
 
+         /*Working as expected*/
+
         Scanner sc = new Scanner(System.in);
         int counter = 1;
         int num,sum=0;

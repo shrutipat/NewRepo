@@ -8,6 +8,11 @@ import java.util.Scanner;
 // For eg:    Input an alphabet: p   Expected Output:   Input letter is Consonant
 
 public class VowelOrConsonant_3 {
+     /*
+     *If you enter SA then result should be Invalid Input but result is "Invalid Input" "Input letter is Vowel"
+     *if enter single letter then correct result
+     */
+
     public static void main(String[] args) {
         String a;
         Scanner scan = new Scanner(System.in);

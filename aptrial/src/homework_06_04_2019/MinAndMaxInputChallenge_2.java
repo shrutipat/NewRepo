@@ -5,6 +5,9 @@ package homework_06_04_2019;
 import java.util.Scanner;
 
 public class MinAndMaxInputChallenge_2 {
+
+        /*Working as expected*/
+
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         System.out.print("\nEnter Number: ");

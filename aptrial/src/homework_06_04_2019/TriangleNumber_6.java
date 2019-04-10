@@ -3,6 +3,9 @@ package homework_06_04_2019;
 import java.util.Scanner;
 
 public class TriangleNumber_6 {
+
+     /*Working as expected*/
+
     public static void main(String[] args) {
         int i, j, n;
         System.out.print("Input number of rows : ");

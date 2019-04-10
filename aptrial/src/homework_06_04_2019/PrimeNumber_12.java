@@ -3,6 +3,9 @@ package homework_06_04_2019;
 import java.util.Scanner;
 
 public class PrimeNumber_12 {
+
+    /*Working as expected*/
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("\nEnter any Number : ");

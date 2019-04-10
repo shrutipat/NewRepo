@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class ArrayContainsValue_18 {
 
+    /*Working as expected Good Logic*/
+
     public static void main(String[] args)
     {
         int length, n;

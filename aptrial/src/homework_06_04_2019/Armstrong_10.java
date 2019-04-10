@@ -3,6 +3,9 @@ package homework_06_04_2019;
 import java.util.Scanner;
 
 public class Armstrong_10 {
+
+     /*Working as expected*/
+
     public static void main (String []args){
 // A positive number is called armstrong number if
 // it is equal to the sum of cubes of its digits
