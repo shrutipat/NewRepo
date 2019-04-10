@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Armstrong_10 {
 
      /*Working as expected*/
+    //xyz
 
     public static void main (String []args){
 // A positive number is called armstrong number if
