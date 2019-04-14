@@ -1,23 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6e6a761-302d-439d-959a-2c36f87ea2f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Java-Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/NewRepo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Archita.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_06_04_2019/Armstrong_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_06_04_2019/Armstrong_10.java" afterDir="false" />
+    <list default="true" id="45777405-2d06-471e-a796-80ba5e661ce4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/architajavapractice/FaceHomeWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/architajavapractice/Flag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/architajavapractice/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/architajavapractice/IsoscelesTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/architajavapractice/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/architajavapractice/RightAngleTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/architajavapractice/TableOf5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/architajavapractice/TableUsingForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/architajavapractice/TableUsingWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/Armstrong_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/ArrayContainsValue_18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/ArrayGrid_16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/AverageValueOfArray_17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/Diamond_19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/DigitSumChallenge_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/EvenDigitSum_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/Fibonacci_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/FirstLastDigitSum_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/IsoscelesTriangle_20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/MinAndMaxInputChallenge_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/NumericStringArray_14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/PalindromeNumber_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/PalindromeString_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/PrimeNumber_12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/ReadingUserInputChallenge_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/RightAngleTriangle_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/SumValuesOfArray_15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/TriangleNumber_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/VowelOrConsonant_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/hasSharedDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/homework_06_04_2019/Armstrong_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/homework_06_04_2019/Armstrong_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/homework_06_04_2019/DigitSumChallenge_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/homework_06_04_2019/DigitSumChallenge_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/homework_06_04_2019/IsoscelesTriangle_20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/homework_06_04_2019/IsoscelesTriangle_20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/homework_06_04_2019/NumericStringArray_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/homework_06_04_2019/NumericStringArray_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/homework_06_04_2019/VowelOrConsonant_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aptrial/homework_06_04_2019/homework_06_04_2019/VowelOrConsonant_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_23_03_2019/AreaOfCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_23_03_2019/AreaOfTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_23_03_2019/BioData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_23_03_2019/FahrenheitToCelsius.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_23_03_2019/StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_23_03_2019/UpperToLowerCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/AverageNumber_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/CalculatorOperators_12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/CityIfElse_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/CitySwitch_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/DaysInMonth_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/DivisibleBy3and5_13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/EvenOdd2_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/EvenOdd_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/InterChangeValue_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/LeapYear_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/MarkSheet_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/NumberAlphabetSymbol_14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/Person_16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/SalarySlip_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/SalesCommission_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/Wall_17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/homework_30_03_2019/WeekNames_15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/practiceamitbhai/DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/practiceamitbhai/InstanceVM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/practiceamitbhai/ReturnMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aptrial/practiceamitbhai/StaticVM.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,17 +77,14 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/Armstrong_10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -48,14 +93,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/homework_06_04_2019/Armstrong_10.java" />
+        <option value="$PROJECT_DIR$/src/homework_13_04_2019/ReverseGivenNumber_1.java" />
+        <option value="$PROJECT_DIR$/src/homework_13_04_2019/RhombusStructure_8.java" />
+        <option value="$PROJECT_DIR$/src/homework_13_04_2019/PascalTriangle_11.java" />
+        <option value="$PROJECT_DIR$/src/homework_13_04_2019/ReverseString_6.java" />
+        <option value="$PROJECT_DIR$/src/homework_13_04_2019/IterateThroughArrayList_18.java" />
+        <option value="$PROJECT_DIR$/src/homework_13_04_2019/DefaultCalender_23.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="10" />
+    <option name="width" value="714" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -63,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -70,6 +121,11 @@
             <path>
               <item name="aptrial" type="b2602c69:ProjectViewProjectNode" />
               <item name="aptrial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aptrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aptrial" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aptrial" type="b2602c69:ProjectViewProjectNode" />
@@ -82,11 +138,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="homework_06_04_2019" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="aptrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aptrial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homework_13_04_2019" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,7 +155,7 @@
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="aptrial" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554933564364" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555270084564" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -113,20 +174,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EvenDigitSum_11">
+  <component name="RunManager" selected="Application.DefaultCalender_23">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Armstrong_10 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.homework_06_04_2019.Armstrong_10" />
+    <configuration name="DefaultCalender_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_13_04_2019.DefaultCalender_23" />
       <module name="aptrial" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.homework_06_04_2019.*" />
+          <option name="PATTERN" value="homework_13_04_2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,13 +195,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Armstrong_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_06_04_2019.Armstrong_10" />
+    <configuration name="IterateThroughArrayList_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_13_04_2019.IterateThroughArrayList_18" />
       <module name="aptrial" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_06_04_2019.*" />
+          <option name="PATTERN" value="homework_13_04_2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,13 +209,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenDigitSum_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_06_04_2019.EvenDigitSum_11" />
+    <configuration name="PascalTriangle_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_13_04_2019.PascalTriangle_11" />
       <module name="aptrial" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_06_04_2019.*" />
+          <option name="PATTERN" value="homework_13_04_2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,13 +223,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FaceHomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="architajavapractice.FaceHomeWork" />
+    <configuration name="ReverseString_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_13_04_2019.ReverseString_6" />
       <module name="aptrial" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="architajavapractice.*" />
+          <option name="PATTERN" value="homework_13_04_2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RhombusStructure_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_13_04_2019.RhombusStructure_8" />
+      <module name="aptrial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_13_04_2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,10 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvenDigitSum_11" />
-        <item itemvalue="Application.FaceHomeWork" />
-        <item itemvalue="Application.Armstrong_10 (1)" />
-        <item itemvalue="Application.Armstrong_10" />
+        <item itemvalue="Application.DefaultCalender_23" />
+        <item itemvalue="Application.IterateThroughArrayList_18" />
+        <item itemvalue="Application.PascalTriangle_11" />
+        <item itemvalue="Application.RhombusStructure_8" />
+        <item itemvalue="Application.ReverseString_6" />
       </list>
     </recent_temporary>
   </component>
@@ -221,56 +297,222 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c6e6a761-302d-439d-959a-2c36f87ea2f7" name="Default Changelist" comment="" />
+      <changelist id="45777405-2d06-471e-a796-80ba5e661ce4" name="Default Changelist" comment="" />
       <created>1554933073449</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554933073449</updated>
     </task>
+    <task id="LOCAL-00001" summary="homework 13_04_2019">
+      <created>1555270156912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555270156912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" />
-      <window_info id="UI Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Job Explorer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Console" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Console" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework 13-04-2019" />
+    <MESSAGE value="No. 10" />
+    <MESSAGE value="homework 13_04_2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 13_04_2019" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/MinAndMaxInputChallenge_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/ReadingUserInputChallenge_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/Armstrong_10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="68">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/PalindromeNumber_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/PalindromeString_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/ArrayGrid_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/ArrayContainsValue_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_13_04_2019/RhombusStructure_8.java" />
+    <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/DigitSumChallenge_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_13_04_2019/ReverseString_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_13_04_2019/PascalTriangle_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_13_04_2019/ReverseGivenNumber_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_13_04_2019/IterateThroughArrayList_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_13_04_2019/DefaultCalender_23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/EvenDigitSum_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/Fibonacci_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/FirstLastDigitSum_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework_06_04_2019/NumericStringArray_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
