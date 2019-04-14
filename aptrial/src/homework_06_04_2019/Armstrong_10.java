@@ -3,15 +3,13 @@ package homework_06_04_2019;
 import java.util.Scanner;
 
 public class Armstrong_10 {
-
      /*Working as expected*/
-    //xyz
 
     public static void main (String []args){
 // A positive number is called armstrong number if
 // it is equal to the sum of cubes of its digits
 // for example 0, 1, 153, 370, 371, 407 etc.
-//
+
         Scanner sc = new Scanner (System.in);
         System.out.println("\nEnter the number to check is it Armstrong or not? : ");
         int x = sc.nextInt();

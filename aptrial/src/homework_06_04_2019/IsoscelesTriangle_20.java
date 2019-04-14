@@ -15,13 +15,10 @@ public class IsoscelesTriangle_20 {
                 for (int k = rows; k >= x; k--) {
                     System.out.print(" ");
                 }
-
                 for (int i = 1; i <= x; i++) {
-
                     System.out.print("* ");
                 }
                 System.out.println();
-
             }
         }
     }
