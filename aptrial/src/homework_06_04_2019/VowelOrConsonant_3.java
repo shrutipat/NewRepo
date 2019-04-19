@@ -13,6 +13,8 @@ public class VowelOrConsonant_3 {
      *if enter single letter then correct result
      */
 
+     //corrected as advised
+
     public static void main(String[] args) {
         String a;
         Scanner scan = new Scanner(System.in);
@@ -23,17 +25,17 @@ public class VowelOrConsonant_3 {
         if (a.length()>1){
             System.out.println("Invalid Input");
         }
-        if(a.contains("a")||a.contains("e")||a.contains("i")||a.contains("o")||a.contains("u")) {
-            System.out.println("Input letter is Vowel");
+        else {
+            if (a.contains("a") || a.contains("e") || a.contains("i") || a.contains("o") || a.contains("u")) {
+                System.out.println("Input letter is Vowel");
+            } else if (a.contains("b") || a.contains("c") || a.contains("d") || a.contains("f") || a.contains("g") || a.contains("h") ||
+                    a.contains("j") || a.contains("k") || a.contains("l") || a.contains("m") || a.contains("n") || a.contains("p") ||
+                    a.contains("q") || a.contains("r") || a.contains("s") || a.contains("t") || a.contains("v") || a.contains("w") ||
+                    a.contains("x") || a.contains("y") || a.contains("z")) {
+                System.out.println("Input letter is Consonant");
+            } else {
+                System.out.println("Input is not an alphabet");
             }
-        else if (a.contains("b") || a.contains("c") || a.contains("d") || a.contains("f") || a.contains("g") || a.contains("h") ||
-                 a.contains("j") || a.contains("k") || a.contains("l") || a.contains("m") || a.contains("n") || a.contains("p") ||
-                 a.contains("q") || a.contains("r") || a.contains("s") || a.contains("t") || a.contains("v") || a.contains("w") ||
-                 a.contains("x") || a.contains("y") || a.contains("z")) {
-            System.out.println("Input letter is Consonant");
-            }
-        else{
-            System.out.println("Input is not an alphabet");
         }
     }
 }

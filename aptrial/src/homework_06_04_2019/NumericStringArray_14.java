@@ -8,7 +8,7 @@ public class NumericStringArray_14 {
 
     public static void main(String[] args) {
         int a[] = {10, 8, 6, 4, 2};
-        String b[] = {"Kavita","Shah", "Hitesh","Kesha", "Shivam"};
+        String b[] = {"Archita","Patel", "is","a strong", "team member"};
         Arrays.sort(a);
 
         for (int c = 0; c < a.length; c++) {

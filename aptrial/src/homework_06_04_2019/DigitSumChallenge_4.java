@@ -30,10 +30,10 @@ public class DigitSumChallenge_4 {
 
     public static int sumDigits(int parameter){
         int unit, ten, hundred;
-        if (parameter<=0){
+        if (parameter<0){
             return -1;
         }
-        else if(parameter>0&&parameter<9){
+        else if(parameter>=0&&parameter<=9){
             return -1;
         }
         else if (parameter>=10&&parameter<100){
