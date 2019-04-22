@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 public class RemoveArrayElement_10 {
 
+     /*Working as expected*/
+
     //Write a Java program to remove a specific element from an array.
 
     public static void main(String[] args)

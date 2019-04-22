@@ -7,6 +7,8 @@ import java.util.Scanner;
 
 public class PascalTriangle_11 {
 
+     /*Not Working as expected*/
+
     public static void main(String[] args) {
         int rows;
         Scanner sc = new Scanner(System.in);

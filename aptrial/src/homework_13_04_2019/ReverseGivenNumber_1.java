@@ -3,6 +3,7 @@ package homework_13_04_2019;
 import java.util.Scanner;
 
 //  Reverse the given number.
+//Work as expected
 
 public class ReverseGivenNumber_1 {
 

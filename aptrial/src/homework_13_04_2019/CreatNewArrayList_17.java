@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CreatNewArrayList_17 {
+
+     /*Working as expected*/
+
   //  Write a Java program to create a new array list, add some colours (string) and printout the collection.
 
     public static void main(String[] args) {

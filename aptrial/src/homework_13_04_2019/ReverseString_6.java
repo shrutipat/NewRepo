@@ -2,7 +2,12 @@ package homework_13_04_2019;
 
 public class ReverseString_6 {
 
-    //Reverse Given String
+    /*This is not correct logic.
+    * I want to reverse string Archita Patel is a strong team member
+    * Answer is member team strong a is Patel Archita
+    * Use scanner to take string and print reverse string*/
+
+       //Reverse Given String
 
     public static void main(String[] args) {
 

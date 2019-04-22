@@ -6,6 +6,8 @@ public class CheckPassword_14 {
 
     public static void main(String[] args) {
 
+         /* Working as expected*/
+
         Scanner input = new Scanner(System.in);
         System.out.print("Please enter a Password: ");
         String password = input.next();

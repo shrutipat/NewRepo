@@ -1,11 +1,12 @@
 package homework_13_04_2019;
 
 //Write a program to compare two strings?
-
 public class CompareStrings_5 {
     public static void main(String[] args) {
+        /*Working as expected*/
+
         //uppercase
-        String str1 = "HELLO";
+        String str1 = "hello";
         //lowercase
         String str2 = "hello";
 

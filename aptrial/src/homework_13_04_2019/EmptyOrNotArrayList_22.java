@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 public class EmptyOrNotArrayList_22 {
 
+     /*Working as expected*/
+
     //Array Empty or not  by using predefine method  is Empty() which shows boolean ans false or true.
 
     public static void main(String[] args) {

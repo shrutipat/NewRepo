@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 public class AddTwoMatrices_9 {
 
+     /*Working as expected*/
+
     public static void main(String[] args) {
         int x, y, c, d;
         Scanner in = new Scanner(System.in);

@@ -3,6 +3,8 @@ package homework_13_04_2019;
 import java.util.Scanner;
 
 public class Rhombus_8 {
+
+    /*Working as expected*/
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

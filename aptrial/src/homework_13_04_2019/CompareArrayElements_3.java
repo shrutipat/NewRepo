@@ -5,6 +5,7 @@ import java.util.Arrays;
 //Write a program to compare two array and its elements are same or not?
 
 public class CompareArrayElements_3 {
+    /*Working as expected*/
 
     public static void main(String[] args){
 

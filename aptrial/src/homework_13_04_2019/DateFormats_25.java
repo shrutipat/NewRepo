@@ -7,6 +7,8 @@ import java.util.Date;
 
 public class DateFormats_25 {
 
+     /*Working as expected*/
+
     //Write a Java program to display the dates in the following formats.
 
     public static void main(String[] args) {

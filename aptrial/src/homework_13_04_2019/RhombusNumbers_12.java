@@ -16,6 +16,8 @@ import java.util.Scanner;
 public class RhombusNumbers_12 {
     public static void main(String[] args) {
 
+         /*Working as expected*/
+
         Scanner sc = new Scanner(System.in);
         System.out.print("Input the number:  ");
         int n = sc.nextInt();

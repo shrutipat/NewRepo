@@ -5,6 +5,9 @@ import java.util.Collections;
 import java.util.List;
 
 public class ReverseElementsOfArrayList_20 {
+
+    /*Working as expected*/
+
     //Write a Java program to reverse elements in a array list.
     public static void main(String[] args) {
 

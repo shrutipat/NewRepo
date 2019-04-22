@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class AscendingOrder_2 {
 
     public static void main(String[] args) {
+        /*Working as expected*/
 
         int count, temp;
         Scanner sc = new Scanner(System.in);

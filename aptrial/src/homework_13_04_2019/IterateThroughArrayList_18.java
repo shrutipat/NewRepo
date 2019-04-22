@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 public class IterateThroughArrayList_18 {
 
+     /*Working as expected*/
+
     //18. Write a Java program to iterate through all elements in a array list.
 
     public static void main(String[] args) {

@@ -1,6 +1,9 @@
 package homework_13_04_2019;
 
 public class RandomIntegers_24 {
+
+     /*Working as expected*/
+
     //Write a Java program to generate random integers in a specific range.
 
     /*java.lang.Math class has a random method which generates a decimal value of type double

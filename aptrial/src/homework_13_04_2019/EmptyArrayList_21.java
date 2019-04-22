@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 public class EmptyArrayList_21 {
 
+     /*Working as expected*/
+
     //Write a Java program to empty an array list
 
     public static void main(String[] args) {
